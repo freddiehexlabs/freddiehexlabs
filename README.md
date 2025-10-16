@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/HexFreddie_AI_Labs-Innovation_in_Action-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/FreddieHexLabs-Innovation_in_Action-blue?style=for-the-badge&logo=github" />
 </p>
 
 <h1 align="center">🚀 FreddieHexLabs</h1>
