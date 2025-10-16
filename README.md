@@ -1,14 +1,17 @@
-# 🤖 HexFreddie AI POCs
+<p align="center">
+  <img src="https://img.shields.io/badge/HexFreddie_AI_Labs-Innovation_in_Action-blue?style=for-the-badge&logo=github" />
+</p>
 
-> *AI-driven innovation across automation, cloud, and coding.*
+<h1 align="center">🚀 HexFreddie AI Labs</h1>
+<p align="center">
+  <i>Experimenting with Agentic AI, Cloud Automation, and Intelligent Systems</i>
+</p>
 
-### 🚧 Current Focus
-- Agentic AI prototypes on AWS
-- Cloud-native AI architecture
-- Intelligent DevOps automation
+---
 
-### 🧠 Tech Stack
-AWS | LangChain | Python | Jenkins | GitHub Actions
+### 🌐 Domains of Exploration
+- 🤖 Agentic AI on AWS  
+- ☁️ Cloud-native Intelligence  
+- 🔄 DevOps & Automation Enhancements  
 
-### 🌟 Motto
-**“Build. Automate. Learn. Evolve.”**
+---
